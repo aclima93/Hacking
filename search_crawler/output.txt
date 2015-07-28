@@ -1,0 +1,14 @@
+/search?
+http://www.google.pt/imghp?hl=pt-PT&tab=wi
+https://www.google.pt/webhp?hl=pt-PT&tab=iw
+https://www.google.pt/imghp?hl=pt-PT&tab=wi
+https://maps.google.pt/maps?hl=pt-PT&tab=il
+//maps.gstatic.com/favicon4.ico
+https://play.google.com/?hl=pt-PT&tab=i8
+/store/opensearch.xml?hl=pt_PT
+//www.gstatic.com/_/play/_/ss/k=play.ss.5ds1hmvigfwn.L.X.O/m=l/d=0/rs=AGlW0sZvBo4_mvc9R_RjjE7gHaJa6z5usA
+//ssl.gstatic.com/android/market_images/web/favicon.ico
+https://play.google.com/store
+https://play.google.com/store?hl=af
+/store/opensearch.xml?hl=af
+https://play.google.com/store?hl=in
